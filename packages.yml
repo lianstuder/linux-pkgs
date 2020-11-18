@@ -1,0 +1,26 @@
+base_packages:
+    - archlinux-keyring
+    - base-devel # Package containing sudo, grep, etc
+    - net-tools
+    - networkmanager
+    - curl
+    - wget
+    - dhcpcd
+    - grub
+    - vim
+    - man-db
+    - man-pages
+    - htop
+
+xorg:
+    - xorg
+    - xorg-xinit
+    - xf86-video-intel
+    - xf86-video-ati
+    - xf86-video-amdgpu
+
+
+optional:
+    - linux-lts
+    - python
+    - gcc
