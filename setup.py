@@ -8,13 +8,12 @@ with open("./README.md", "r") as rdme:
     rdme.close()
 
 setup(
-    name="ArchInit",
+    name="os-init",
     version="1.0.0",
     license="GNU General Public License v3.0",
     long_description=ldesc,
     author="Lian Studer",
     author_email="ln.studer@protonmail.ch",
-    url="https://github.com/lianstuder/archinit",
-    packages=["archinit"],
+    url="https://github.com/lianstuder/osinit",
     install_requires=requirements
 )
