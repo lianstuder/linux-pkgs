@@ -1,1 +1,1 @@
-# ArchInit
+# 🏁 osinit

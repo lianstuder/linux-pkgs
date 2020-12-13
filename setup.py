@@ -10,7 +10,7 @@ with open("./README.md", "r") as rdme:
 setup(
     name="os-init",
     version="1.0.0",
-    license="GNU General Public License v3.0",
+    license="MIT License",
     long_description=ldesc,
     author="Lian Studer",
     author_email="ln.studer@protonmail.ch",
