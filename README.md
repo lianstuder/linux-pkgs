@@ -60,6 +60,3 @@ Package config system
 
 ### www-client/brave-bin
 Brave web browser
-
-### www-client/links
-Links web browser
