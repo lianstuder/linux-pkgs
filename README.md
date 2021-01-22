@@ -8,7 +8,7 @@ A shell script to install a list of packages for Gentoo Linux.
 Vim text editor.
 
 ### app-editors/vscodium-bin
-Visual Studio Code without telemetry
+Open Source Software Binaries of VSCode
 
 ### app-emulation/virtualbox
 Virtualbox virtualization software
@@ -29,13 +29,13 @@ Python programming language version 3.9
 Python programming language version 3.8
 
 ### dev-util/shards
-Crystal language package manager
+Crystal language dependency manager
 
 ### dev-vcs/git
 Git version control software
 
 ### media-gfx/flameshot
-Flameshot screen capture tool
+Flameshot screenshot software
 
 ### media-sound/spotify
 Spotify music streaming app 
@@ -50,13 +50,13 @@ Signal messanger app
 Node.js Javascript runtime
 
 ### net-misc/curl
-Program to receive information from webserver
+Program to grok URLs
 
 ### net-misc/wget
 Program to retrieve content from webserver
 
 ### dev-util/pkgconfig
-Interface for querying installed libraries
+Package config system
 
 ### www-client/brave-bin
 Brave web browser
