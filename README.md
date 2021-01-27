@@ -2,6 +2,8 @@
 
 A shell script to install a list of packages for Gentoo Linux.
 
+**usage: `chmod +x ./install.sh && ./install.sh`**
+
 ## Packages
 
 ### app-editors/vim
