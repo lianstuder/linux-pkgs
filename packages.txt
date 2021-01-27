@@ -17,5 +17,4 @@ net-misc/curl
 net-misc/wget
 dev-util/pkgconfig
 www-client/brave-bin
-www-client/links
 END
